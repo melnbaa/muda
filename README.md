@@ -4,7 +4,7 @@ Toyota’s car production system was established based on years of continuous im
 
 The project simulates the “Muda” philosophy that is used in modern-day manufacturing within the automotive business sector. The purpose is to simulate Toyota's production system by making code using C++. In the workplace, the program would act like a user interface that an Automation Engineer would use when evaluating current manufacturing processes and then use them to output generated data to a text file. The program would then read the data from the file and provide the user with menu options to sort through the data against certain fields, as well as identify sources of waste and remove them.
 
-To simulate using the program at different times and/or locations, a new, randomly generated database is created every time the program runs. The generated values are called back into the program using object arrays that store data for each vehicle. Our software can be outsourced to other car manufacturers, as we are simulating one of them; they can change their preferences for their own needs in data collection.
+To simulate using the program at different times and/or locations, a new, randomly generated database is created every time the program runs. The generated values are called back into the program using object arrays that store data for each vehicle. The software can be outsourced to other car manufacturers, as we are simulating one of them; they can change their preferences for their own needs in data collection.
 
 **Class Details**
 
